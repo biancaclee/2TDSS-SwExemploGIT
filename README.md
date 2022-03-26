@@ -1,2 +1,2 @@
-# 2TDSS-SwExemploGIT
-Exemplo de sistema desenvolvido com uso do GIT
+# 2TDSS-SwExemploGITFLOW com HUB
+Exemplo de sistema desenvolvido com uso do GIT em sala
